@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (if you have large datasets)
+data/raw/
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+
+# Model checkpoints (can be large)
+models/checkpoints/
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# API Keys (IMPORTANT - never commit these!)
+.env
+.env.local
+config/secrets.py
+*_secrets.py
+api_keys.json
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+*.cache
+
+# OS
+Thumbs.db
+
+# Results/Outputs (optional - you may want to commit some)
+outputs/
+results/
+plots/
+
+# Temporary files
+tmp/
+temp/
