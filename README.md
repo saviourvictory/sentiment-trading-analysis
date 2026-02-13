@@ -249,9 +249,8 @@ MSc Artificial Intelligence and Machine Learning
 University of Essex  
 Student ID: 2412275
 
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn]  
-💻 GitHub: [Your GitHub]
+📧 Email: saviourvictory2909@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/saviour-victory-2825132a0/
 
 ---
 
